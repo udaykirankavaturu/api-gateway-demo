@@ -1,4 +1,3 @@
-version: '3.8'
 services:
   user-service-1:
     build: ./user-service-1
